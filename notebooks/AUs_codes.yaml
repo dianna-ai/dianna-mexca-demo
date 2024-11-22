@@ -1,0 +1,88 @@
+# this is based on table of AUs and ADs (with underlying facial muscles) found at
+# https://en.wikipedia.org/wiki/Facial_Action_Coding_System
+
+facial_action_units:
+  0:
+    facs_name: Neutral face
+    muscular_basis: null
+  1:
+    facs_name: Inner brow raiser
+    muscular_basis: frontalis (pars medialis)
+  2:
+    facs_name: Outer brow raiser
+    muscular_basis: frontalis (pars lateralis)
+  4:
+    facs_name: Brow lowerer
+    muscular_basis: depressor glabellae, depressor supercilii, corrugator supercilii
+  5:
+    facs_name: Upper lid raiser
+    muscular_basis: levator palpebrae superioris, superior tarsal muscle
+  6:
+    facs_name: Cheek raiser
+    muscular_basis: orbicularis oculi (pars orbitalis)
+  7:
+    facs_name: Lid tightener
+    muscular_basis: orbicularis oculi (pars palpebralis)
+  8:
+    facs_name: Lips toward each other
+    muscular_basis: orbicularis oris
+  9:
+    facs_name: Nose wrinkler
+    muscular_basis: levator labii superioris alaeque nasi
+  10:
+    facs_name: Upper lip raiser
+    muscular_basis: levator labii superioris, caput infraorbitalis
+  11:
+    facs_name: Nasolabial deepener
+    muscular_basis: zygomaticus minor
+  12:
+    facs_name: Lip corner puller
+    muscular_basis: zygomaticus major
+  13:
+    facs_name: Sharp lip puller
+    muscular_basis: levator anguli oris (also known as caninus)
+  14:
+    facs_name: Dimpler
+    muscular_basis: buccinator
+  15:
+    facs_name: Lip corner depressor
+    muscular_basis: depressor anguli oris (also known as triangularis)
+  16:
+    facs_name: Lower lip depressor
+    muscular_basis: depressor labii inferioris
+  17:
+    facs_name: Chin raiser
+    muscular_basis: mentalis
+  18:
+    facs_name: Lip pucker
+    muscular_basis: incisivii labii superioris and incisivii labii inferioris
+  19:
+    facs_name: Tongue show
+    muscular_basis: null
+  20:
+    facs_name: Lip stretcher
+    muscular_basis: risorius with platysma
+  21:
+    facs_name: Neck tightener
+    muscular_basis: platysma
+  22:
+    facs_name: Lip funneler
+    muscular_basis: orbicularis oris
+  23:
+    facs_name: Lip tightener
+    muscular_basis: orbicularis oris
+  24:
+    facs_name: Lip pressor
+    muscular_basis: orbicularis oris
+  25:
+    facs_name: Lips part
+    muscular_basis: depressor labii inferioris, or relaxation of mentalis or orbicularis oris
+  26:
+    facs_name: Jaw drop
+    muscular_basis: masseter; relaxed temporalis and internal pterygoid
+  27:
+    facs_name: Mouth stretch
+    muscular_basis: pterygoids, digastric
+  28:
+    facs_name: Lip suck
+    muscular_basis: orbicularis oris
