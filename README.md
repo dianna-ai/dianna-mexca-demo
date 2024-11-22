@@ -1,6 +1,6 @@
 # Model Interpretation for Pretrained ImageNet Model using RISE
 
-The original notebooks and codes can be founc at https://github.com/mexca/mexca/tree/dianna-demo-experiments/dianna-demo.
+The original notebooks and codes can be found at https://github.com/mexca/mexca/tree/dianna-demo-experiments/dianna-demo.
 
 ## Requirments:
 
